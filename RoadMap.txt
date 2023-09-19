@@ -1,0 +1,111 @@
+Here's a 20-day roadmap to help you learn Python, focusing on various built-in data structures, object-oriented programming (OOP), and data structures and algorithms (DSA). Each day includes 10 problem-solving questions related to the topic of the day.
+
+*Week 1: Built-in Data Structures*
+
+*Day 1-2: Lists*
+- Day 1: Basics of lists, indexing, and slicing.
+- Day 2: Practice problems with lists, including sorting and searching.
+
+*Day 3-4: Tuples*
+- Day 3: Introduction to tuples and their immutability.
+- Day 4: Practice problems with tuples, like tuple packing and unpacking.
+
+*Day 5-6: Dictionaries*
+- Day 5: Introduction to dictionaries and key-value pairs.
+- Day 6: Practice problems with dictionaries, including iteration and manipulation.
+
+*Day 7-8: Sets*
+- Day 7: Introduction to sets and their unique properties.
+- Day 8: Practice problems with sets, focusing on set operations.
+
+*Day 9-10: Strings*
+- Day 9: Working with strings, string methods, and formatting.
+- Day 10: Practice problems involving string manipulation.
+
+*Week 2: Object-Oriented Programming (OOP)*
+
+*Day 11-12: OOP Basics*
+- Day 11: Introduction to classes, objects, and attributes.
+- Day 12: Practice creating classes and instances.
+
+*Day 13-14: Inheritance and Polymorphism*
+- Day 13: Understanding inheritance and method overriding.
+- Day 14: Practice problems involving inheritance and polymorphism.
+
+*Day 15-16: Encapsulation and Abstraction*
+- Day 15: Exploring encapsulation and abstract classes.
+- Day 16: Practice encapsulating data and using abstract classes.
+
+*Day 17-18: File Handling*
+- Day 17: Working with files in Python.
+- Day 18: Practice reading and writing to files.
+
+*Week 3: Data Structures and Algorithms (DSA)*
+
+*Day 19-20: DSA Basics*
+- Day 19: Introduction to basic data structures (arrays, linked lists).
+- Day 20: Introduction to basic algorithms (sorting, searching).
+
+This roadmap provides a structured approach to learning Python, covering key concepts and problem-solving exercises. Feel free to adjust the pace to your own learning speed, and don't forget to consult Python documentation and online resources for further guidance and practice.
+
+
+
+*Lists:*
+1. Write a Python program to find the sum of all elements in a list.
+2. Create a function to find the largest and smallest elements in a list.
+3. Write a program to remove all duplicate elements from a list.
+4. Implement a function to reverse a list.
+5. Write a program to find the average of elements in a list.
+6. Create a function to check if a list is sorted in ascending order.
+7. Write a program to merge two sorted lists into a single sorted list.
+8. Implement a function to find the frequency of a given element in a list.
+9. Write a program to shuffle the elements of a list randomly.
+10. Create a function that returns the intersection of two lists.
+
+*Tuples:*
+1. Write a Python program to concatenate two tuples.
+2. Create a function to find the index of a specific element in a tuple.
+3. Write a program to count the occurrences of an element in a tuple.
+4. Implement a function to find the maximum and minimum elements in a tuple.
+5. Create a program to convert a tuple into a list.
+6. Write a function to check if a given element exists in a tuple.
+7. Implement a program to slice a tuple.
+8. Write a program to find the length of a tuple.
+9. Create a function to find the sum of elements in a numeric tuple.
+10. Write a program to find the common elements between two tuples.
+
+*Dictionaries:*
+1. Write a Python program to create a dictionary from two lists, one containing keys and the other values.
+2. Create a function to check if a key exists in a dictionary.
+3. Write a program to merge two dictionaries.
+4. Implement a function to find the keys with the highest values in a dictionary.
+5. Create a program to sort a dictionary by its values.
+6. Write a function to remove a specific key from a dictionary.
+7. Implement a program to count the frequency of each character in a string using a dictionary.
+8. Write a program to find the intersection of two dictionaries.
+9. Create a function to find the average value of dictionary values.
+10. Write a Python program to remove all duplicate values from a dictionary.
+
+*Sets:*
+1. Write a Python program to find the union of two sets.
+2. Create a function to check if one set is a subset of another.
+3. Write a program to remove duplicate elements from a list using a set.
+4. Implement a function to find the intersection of two sets.
+5. Create a program to perform set difference between two sets.
+6. Write a function to check if two sets are disjoint.
+7. Implement a program to add and remove elements from a set.
+8. Write a program to find the symmetric difference between two sets.
+9. Create a function to check if a set is empty.
+10. Write a Python program to find the Cartesian product of two sets.
+
+*Strings:*
+1. Write a Python program to reverse a string.
+2. Create a function to count the number of vowels and consonants in a string.
+3. Write a program to check if a string is a palindrome.
+4. Implement a function to remove all whitespace from a string.
+5. Create a program to find the most frequent character in a string.
+6. Write a function to capitalize the first letter of each word in a string.
+7. Implement a program to check if two strings are anagrams.
+8. Write a program to count the occurrences of a substring in a string.
+9. Create a function to replace all occurrences of a character in a string.
+10. Write a Python program to check if a string contains only digits.

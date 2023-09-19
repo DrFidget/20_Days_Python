@@ -1,0 +1,12 @@
+
+*Lists:*
+1. Write a Python program to find the sum of all elements in a list.
+2. Create a function to find the largest and smallest elements in a list.
+3. Write a program to remove all duplicate elements from a list.
+4. Implement a function to reverse a list.
+5. Write a program to find the average of elements in a list.
+6. Create a function to check if a list is sorted in ascending order.
+7. Write a program to merge two sorted lists into a single sorted list.
+8. Implement a function to find the frequency of a given element in a list.
+9. Write a program to shuffle the elements of a list randomly.
+10. Create a function that returns the intersection of two lists.
