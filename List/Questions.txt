@@ -8,5 +8,4 @@
 6. Create a function to check if a list is sorted in ascending order.
 7. Write a program to merge two sorted lists into a single sorted list.
 8. Implement a function to find the frequency of a given element in a list.
-9. Write a program to shuffle the elements of a list randomly.
-10. Create a function that returns the intersection of two lists.
+9. Create a function that returns the intersection of two lists.
