@@ -1,0 +1,11 @@
+*Tuples:*
+1. Write a Python program to concatenate two tuples.
+2. Create a function to find the index of a specific element in a tuple.
+3. Write a program to count the occurrences of an element in a tuple.
+4. Implement a function to find the maximum and minimum elements in a tuple.
+5. Create a program to convert a tuple into a list.
+6. Write a function to check if a given element exists in a tuple.
+7. Implement a program to slice a tuple.
+8. Write a program to find the length of a tuple.
+9. Create a function to find the sum of elements in a numeric tuple.
+10. Write a program to find the common elements between two tuples.
